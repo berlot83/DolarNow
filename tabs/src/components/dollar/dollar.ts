@@ -6,6 +6,9 @@ import { Http, RequestOptions, Headers } from '@angular/http';
  *
  * See https://angular.io/api/core/Component for more info on Angular
  * Components.
+
+
+ DD
  */
 @Component({
   selector: 'dollar',
